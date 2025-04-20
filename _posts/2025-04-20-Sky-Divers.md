@@ -65,8 +65,11 @@ We wish you the best of luck in your future endeavors.
 ```
 
 - now i have the domain name from the email
+> we can try authentication
+{: .prompt-tip }
 
-image: https://ars.els-cdn.com/content/image/3-s2.0-B9780128199046000207-f20-07-9780128199046.jpg
+![3-s2 0-B9780128199046000207-f20-07-9780128199046](https://github.com/user-attachments/assets/59cd3ef5-1ccc-4b56-944d-ca981bfd3bfd)
+
 
 ## Initial access
 - icant see port 22 is closed but you can see port with the proxy, i think this one i tried to use proxychains to access.
@@ -351,6 +354,9 @@ bash-4.2#
 
 
 ```
+> Ooops! It manager is comming
+{: .prompt-danger }
+
 
 ![Screenshot From 2025-03-29 04-28-40](https://github.com/user-attachments/assets/0c6ff2af-b169-4171-8e49-5fe5939e9c02)
 
