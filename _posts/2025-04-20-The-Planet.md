@@ -10,7 +10,6 @@ image: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2009/12/29
 > I Think i have to turn Off the Sun it's so Hot, in My rocket i have no more oxygen tanks Oops!.
 {: .prompt-danger }
 
-image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/07/01/23/web-aliens-2.jpg
 
 ## scanning
 ```
