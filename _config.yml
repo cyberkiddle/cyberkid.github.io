@@ -16,7 +16,7 @@ timezone:
 
 title: Rodgers Omben # the main title
 
-tagline: eJPT / ICCA # it will display as the subtitle
+tagline: eJPT / ICCA / CRTA # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: cyberkidle # change to your GitHub username
+  username: cyberkiddle # change to your GitHub username
 
 twitter:
   username: cyberkid # change to your Twitter username
