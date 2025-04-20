@@ -3,8 +3,8 @@ layout: post
 title: Smallest Planet
 date: 20-04-2025
 categories: [Basics]
-tags: [, blind, commandinjection, wget]
-image: "[https://alternativemagazineonline.co.uk/wp-content/uploads/2023/10/midnight-girl.jpg?w=640](https://images.aeonmedia.co/images/fb98b865-4230-4b36-86f5-70960bf6ac53/After-Archimboldo.jpg?width=3840&quality=75&format=auto)"
+tags: [blind, commandinjection, wget]
+image: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2009/12/29/01/284622.jpg"
 ---
 
 > I Think i have to turn Off the Sun it's so Hot, in My rocket i have no more oxygen tanks Oops!.
