@@ -13,7 +13,9 @@ Hi Am Cyberkiddle, a Red Team enthusiast with a strong focus on offensive securi
 
 ---
 
-## Experience 
+> Telegram
+Join: https://t.me/cyberkid_rona_planet
+{: .prompt-danger }
 
 
 ## Certifications 
